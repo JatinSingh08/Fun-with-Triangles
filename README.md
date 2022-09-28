@@ -1,5 +1,4 @@
-# Mark12-Fun-with-Triangles
-A website which helps the user to learn about Triangles. It consist of a quiz, calculators to calculate Hypotenuse and Area of triangle.<br>
+<strong>A website which helps the user to learn about Triangles. It consist of a quiz, calculators to calculate Hypotenuse and Area of triangle.</Strong><br>
 <strong>Here's the homepage of the website: </strong>
 ![funwithtri](https://user-images.githubusercontent.com/97881261/192106640-6560203b-df62-41ab-bf65-ae37995caec3.png)
 
